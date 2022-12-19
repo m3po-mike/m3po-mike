@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m3po-mike
 - 👀 I’m interested in programming and games
-- 🌱 I’m currently learning Unreal, C++ and LUA
+- 🌱 I’m currently learning Unreal
 - 💞️ I’m looking to collaborate on game modding
 - 📫 How to reach me ...
 
